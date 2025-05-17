@@ -1,0 +1,378 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmstaff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmcustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmchooseforstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmchooseforstatistic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmchangepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmbookingonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbookingonline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbooking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatisticsdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatisticsdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatisticsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71224B0-30CF-4733-BC3C-C6748A59240D}|BLL\\BLL.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\bll\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}",
+      "RelativeMoniker": "D:0:0:{D71224B0-30CF-4733-BC3C-C6748A59240D}|BLL\\BLL.csproj|solutionrelative:bll\\properties\\settings.settings||{6D2695F9-5365-4A78-89ED-F205C045BFE6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|e:\\btl_lovandungnet\\xaydungphanmemquanlykhachsan\\2. code\\project\\hotel-management-project\\hotelmanagementproject\\hotelmanagementproject\\frmbillstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatistics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatisticsdevice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatisticsdevice.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\hotelmanagementproject\\frmbillstatisticsdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13EE95E2-46F0-4B67-A65B-72C0259010D1}|HotelManagementProject\\HotelManagementProject.csproj|solutionrelative:hotelmanagementproject\\frmbillstatisticsdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|HotelManagementProject||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmMain.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmMain.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmMain.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:14.268Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmChooseForStatistic.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmChooseForStatistic.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmChooseForStatistic.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmChooseForStatistic.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmChooseForStatistic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:06.939Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmChangePassword.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmChangePassword.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmChangePassword.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:05.063Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmBookingOnline.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBookingOnline.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBookingOnline.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBookingOnline.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBookingOnline.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:03.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmLogin.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmLogin.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmLogin.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:55.386Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmDevice.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmDevice.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmDevice.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmDevice.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmDevice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:54.215Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmRoom.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmRoom.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmRoom.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmRoom.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:49.162Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmService.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmService.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmService.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmService.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:51.142Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmStaff.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmStaff.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmStaff.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmStaff.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmStaff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:52.071Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmBill.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBill.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBill.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBill.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBill.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:47:32.507Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmBooking.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBooking.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBooking.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBooking.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBooking.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:31:02.893Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmAccount.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmAccount.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmAccount.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmAccount.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:30:57.626Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmCustomer.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmCustomer.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmCustomer.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmCustomer.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmCustomer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T06:29:49.668Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmBillStatistics.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatistics.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatistics.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatistics.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatistics.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:49:29.727Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmBillStatisticsDevice.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatisticsDevice.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:56:57.299Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "frmBillStatisticsService.cs [Design]",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsService.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatisticsService.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsService.cs [Design]",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatisticsService.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:00:54.654Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "frmBillStatisticsService.cs",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsService.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatisticsService.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsService.cs",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatisticsService.cs",
+              "ViewState": "AgIAAJkCAAAAAAAAAADwvx8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:16:42.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "frmBillStatistics.cs",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatistics.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatistics.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatistics.cs",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatistics.cs",
+              "ViewState": "AgIAAA0CAAAAAAAAAAAswCsCAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T00:52:30.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmBillStatisticsDevice.cs",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatisticsDevice.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAowCgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T13:57:07.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "frmBillStatisticsDevice.Designer.cs",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.Designer.cs",
+              "RelativeDocumentMoniker": "HotelManagementProject\\frmBillStatisticsDevice.Designer.cs",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\frmBillStatisticsDevice.Designer.cs",
+              "RelativeToolTip": "HotelManagementProject\\frmBillStatisticsDevice.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAANACAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T14:54:32.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Settings.settings",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\BLL\\Properties\\Settings.settings",
+              "RelativeDocumentMoniker": "BLL\\Properties\\Settings.settings",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\BLL\\Properties\\Settings.settings",
+              "RelativeToolTip": "BLL\\Properties\\Settings.settings",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002767|",
+              "WhenOpened": "2025-04-24T13:53:06.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HotelManagementProject",
+              "DocumentMoniker": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\HotelManagementProject.csproj",
+              "RelativeDocumentMoniker": "HotelManagementProject\\HotelManagementProject.csproj",
+              "ToolTip": "E:\\btl_lovandungnet\\XayDungPhanMemQuanLyKhachSan\\2. Code\\Project\\Hotel-Management-Project\\HotelManagementProject\\HotelManagementProject\\HotelManagementProject.csproj",
+              "RelativeToolTip": "HotelManagementProject\\HotelManagementProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-24T13:53:00.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

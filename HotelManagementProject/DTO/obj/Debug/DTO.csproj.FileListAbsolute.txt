@@ -1,0 +1,30 @@
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.dll
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.pdb
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.dll
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.pdb
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.dll
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.pdb
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.dll
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.pdb
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.dll
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.pdb
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.dll
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.pdb
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.dll
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.pdb
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.dll
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.pdb
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.dll
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\bin\Debug\DTO.pdb
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.dll
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\DTO\obj\Debug\DTO.pdb

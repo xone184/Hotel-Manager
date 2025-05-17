@@ -1,0 +1,50 @@
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll.config
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.pdb
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.dll
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.pdb
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.dll
+C:\Documents\#HUFI_NAM_4_HK1\PhatTrienPhanMemThongMinh\A DoAn\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.pdb
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll.config
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.pdb
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.dll
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.pdb
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.dll
+D:\Documents\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.pdb
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll.config
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.pdb
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.dll
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.pdb
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.Up2Date
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.dll
+G:\workspace_vs\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.pdb
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll.config
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.pdb
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.dll
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.pdb
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.dll
+C:\Users\dungv\Documents\Zalo Received Files\a1_btl\a1_btl\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.pdb
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll.config
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.dll
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\BLL.pdb
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.dll
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\bin\Debug\DTO.pdb
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.csproj.Up2Date
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.dll
+E:\btl_lovandungnet\XayDungPhanMemQuanLyKhachSan\2. Code\Project\Hotel-Management-Project\HotelManagementProject\BLL\obj\Debug\BLL.pdb
